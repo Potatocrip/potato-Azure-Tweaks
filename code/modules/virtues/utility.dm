@@ -156,7 +156,7 @@
 
 /datum/virtue/utility/hollow
 	name = "Hollow"
-	desc = "Some fell magick has rendered me inwardly unliving - I do not hunger, and I do not breathe."
+	desc = "Some fell magick has rendered me inwardly unliving - I do not hunger, I do not breathe, and I will expire more slowly upon bleeding out."
 	added_traits = list(TRAIT_NOHUNGER, TRAIT_NOBREATH, TRAIT_FAKEDEATH)
 
 /datum/virtue/utility/deadened
